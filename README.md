@@ -54,8 +54,4 @@ Application Tracking System by using Google LLM gemini pro. ATS stands for "Appl
 
 ## License
 
-      This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-      If you have any questions, feel free to contact me at santhuhitter1515@gmail.com.
+      This project is licensed under the MIT License
